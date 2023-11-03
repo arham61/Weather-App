@@ -1,0 +1,44 @@
+.sub-cards {
+  display: flex;
+}
+
+.card1 {
+  margin: auto;
+  width: 80%;
+  text-align: center;
+}
+
+.card2 {
+  text-align: center;
+  margin: auto;
+  width: 80%;
+}
+
+.city-table {
+  margin: 50px;
+  padding: 30px;
+  border: 2px solid grey;
+  border-radius: 25px;
+}
+
+.temp-card {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar {
+  height: 80px;
+}
+
+p{
+  color: white;
+}
+
+.cityname{
+  color:white;
+}
+
+body {
+  background: rgb(150, 60, 131);
+  background: linear-gradient(90deg, rgba(150, 60, 131, 1) 0%, rgba(195, 9, 73, 0.9934348739495799) 49%, rgba(10, 126, 149, 1) 100%);
+}
